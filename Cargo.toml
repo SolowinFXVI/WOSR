@@ -1,0 +1,7 @@
+[package]
+name = "wosr"
+version = "0.1.0"
+authors = ["Solow"]
+
+[lib]
+crate-type = ["staticlib"]
